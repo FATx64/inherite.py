@@ -1,0 +1,1 @@
+# inherite.py
